@@ -78,9 +78,3 @@ streamlit run dashboard/app.py
 - Enables real-time decision making  
 
 ---
-
-## 🎤 Interview Explanation
-
-"I built a real-time fintech system combining ML-based payment optimization and fraud detection, using Kafka for scalable event-driven processing."
-
----
